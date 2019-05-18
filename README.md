@@ -1,3 +1,3 @@
-# GetDailyGreetingsWithNewQuoteWebPage
+# DailyGreetings
 
-This is a project where users get daily greetings with inspirational quotes.
+A WebApp that give daily greetings with inspirational quote, date and time made by using only HTML, CSS and JS.
